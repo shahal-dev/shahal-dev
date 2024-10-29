@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahal-dev
-- 👀 I’m interested in BlockChai, Cyber security and Machine Learning
+- 👀 I’m interested in BlockChain, Cyber security and Machine Learning
 - 🌱 I’m currently learning Neural networks
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me shahadatw6@gmail.com
