@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Shahadat Hossain Shahal
 
-🎓 **Aspiring Astrophysicist** | 🛰️ ** Intern Researcher** | 🧠 **AI & Machine Learning Developer**  
+🎓 **Astronomy Enthusiast** | 🛰️ ** Intern Researcher** | 🧠 **AI & Machine Learning Developer**  
 📍 Based in Bangladesh | 💻 Full-Stack Dev | 🔭 Building systems
 
 ---
